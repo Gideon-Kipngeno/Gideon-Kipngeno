@@ -1,7 +1,6 @@
-# Hi there, I'm Gideon Kipngeno Ngetich
+# Hello, This is Gideon Kipngeno Ngetich
 
 ### Web Developer | Networking & System Support Specialist | Aspiring Data Analyst
-
 <p align="center">
   <img src="https://github.com/ashutosh00710/ashutosh00710/raw/master/assets/developer.gif" width="70">
   <br/>
