@@ -17,19 +17,39 @@
 
 ---
 
-### About Me
-- **BSc in Information Technology** – Zetech University  
-- Currently learning **Software Engineering** at Power Learn Project  
-- Exploring **Web Development**, **Networking**, and **Data Analytics**  
-- Passionate about building digital solutions that solve community challenges  
-- Ask me about **Python**, **JavaScript**, **Django**, and **Technical Support**
+<!-- <p align="center">
+  <b>"Turning ideas into digital experiences that empower people."</b>
+</p>
+
+--- -->
+
+### <p align="center">About Me</p>
+
+<p align="center">
+  <b>BSc in Information Technology</b> – Zetech University <br>
+  Currently learning <b>Software Engineering</b> at Power Learn Project <br>
+  Exploring <b>Web Development</b>, <b>Networking</b>, and <b>Data Analytics</b> <br>
+  Passionate about building digital solutions that solve community challenges <br>
+  Ask me about <b>Python</b>, <b>JavaScript</b>, <b>Django</b>, and <b>Technical Support</b>
+</p>
 
 ---
+
+### <p align="center">Connect With Me</p>
+
 <p align="center">
-  <a href="https://github.com/Gideon-Kipngeno"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
-  <a href="https://x.com/Gideon_K_N"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=x"></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-Connect-pink?style=for-the-badge&logo=instagram"></a>
+  <a href="https://github.com/Gideon-Kipngeno">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://x.com/Gideon_K_N">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x">
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram">
+  </a>
 </p>
+
+---
 
 ### Tech Stack
 | Category | Technologies |
