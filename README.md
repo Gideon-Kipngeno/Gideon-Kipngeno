@@ -1,29 +1,6 @@
-<h1 align="center" style="
-  background: linear-gradient(-45deg, #2c3e50, #3498db, #2c3e50);
-  background-size: 400% 400%;
-  animation: gradientShift 4s ease infinite;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  display: inline-block;
-">
-  Hello, This is Gideon Kipngeno Ngetich
-</h1>
+# Hello, This is Gideon Kipngeno Ngetich
 
-<h3 align="center" style="animation: fadeInUp 2s ease-out 0.5s both;">
-  Web Developer | Networking & System Support Specialist | Aspiring Data Analyst
-</h3>
-
-<style>
-  @keyframes gradientShift {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  @keyframes fadeInUp {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-</style>
+### Web Developer | Networking & System Support Specialist | Aspiring Data Analyst
 
 ---
 
