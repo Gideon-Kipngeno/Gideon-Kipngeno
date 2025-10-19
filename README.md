@@ -7,9 +7,8 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/ashutosh00710/ashutosh00710/raw/master/assets/developer.gif" width="80">
-  <br/>
   <b>"Turning ideas into digital experiences that empower people."</b>
 </p>
 
