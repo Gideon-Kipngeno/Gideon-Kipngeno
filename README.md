@@ -1,7 +1,7 @@
 <!-- Custom GitHub Profile for Gideon Kipngeno Ngetich -->
 
-<h1 align="center">👋 Hi there, I'm Gideon Kipngeno Ngetich</h1>
-<h3 align="center">💻 Web Developer | Networking & System Support Specialist | Aspiring Data Analyst</h3>
+<h1 align="left" background="dark">👋 Hi there, This is Gideon Kipngeno Ngetich</h1>
+<h3 align="left">💻 Web Developer | Networking & System Support Specialist | Aspiring Data Analyst</h3>
 
 ---
 
