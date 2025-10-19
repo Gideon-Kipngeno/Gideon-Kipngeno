@@ -88,7 +88,7 @@
 ## Featured Projects
 | Project | Description | Preview |
 |----------|--------------|----------|
-| [**Personal Portfolio**](https://gideon-kipngeno.github.io/GIDEON_K_N/) | A responsive personal website showcasing my skills, education, and projects. | [Visit Site](https://gideon-kipngeno.github.io/GIDEON_K_N/) |
+| [**Personal Portfolio**](https://gideon-k-m14ahlnuy-gideons-projects-0567d1d1.vercel.app) | A responsive personal website showcasing my skills, education, and projects. | [Visit Site](https://gideon-kipngeno.github.io/GIDEON_K_N/) |
 | **Task Manager Pro (Django App)** | A task management web app built for Destinet Solutions with authentication and dashboard features. | *(Private Project)* |
 | [**Greenwood School Website**](https://gideon-kipngeno.github.io/Greenwood/) | A modern academic website built using HTML, CSS, and JS. | [Preview](https://gideon-kipngeno.github.io/Greenwood/) |
 
