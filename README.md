@@ -1,12 +1,12 @@
 <!-- Custom GitHub Profile for Gideon Kipngeno Ngetich -->
 
-<h1 align="left" background="dark">👋 Hi there, This is Gideon Kipngeno Ngetich</h1>
-<h3 align="left">💻 Web Developer | Networking & System Support Specialist | Aspiring Data Analyst</h3>
+<h1 align="center">👋 Hi there, I'm Gideon Kipngeno Ngetich</h1>
+<h3 align="center">💻 Web Developer | Networking & System Support Specialist | Aspiring Data Analyst</h3>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/ashutosh00710/raw/master/assets/developer.gif" width="60px">
+  <img src="https://github.com/ashutosh00710/ashutosh00710/raw/master/assets/developer.gif" width="70">
   <br/>
   <b>"Turning ideas into digital experiences that empower people."</b>
 </p>
@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 BSc in **Information Technology** from Zetech University  
+- 🎓 **BSc in Information Technology** – Zetech University  
 - 🧠 Currently learning **Software Engineering** at Power Learn Project  
 - 🌱 Exploring **Web Development**, **Networking**, and **Data Analytics**  
 - 💡 Passionate about building digital solutions that solve community challenges  
@@ -45,14 +45,16 @@
 
 ---
 
-### 🌱 Current Projects
-- 🌐 [Personal Portfolio](https://gideon-kipngeno.github.io/GIDEON_K_N/) – showcasing my projects & skills  
-- 💻 Django-based **Task Manager Pro** (Destinet Solutions)  
-- ⚙️ Learning **Web Hosting, REST APIs, and Database Integration**
+### 🌟 Featured Projects
+| Project | Description | Preview |
+|----------|--------------|----------|
+| 🧭 [**Personal Portfolio**](https://gideon-kipngeno.github.io/GIDEON_K_N/) | A responsive personal website showcasing my skills, education, and projects. | [🌐 Visit Site](https://gideon-kipngeno.github.io/GIDEON_K_N/) |
+| ✅ **Task Manager Pro (Django App)** | A task management web app built for Destinet Solutions with authentication and dashboard features. | 💻 *(Private Project)* |
+| 🌍 **Greenwood School Website** | A modern academic website built using HTML, CSS, and JS. | [🔗 Preview](https://gideon-kipngeno.github.io/Greenwood/) |
 
 ---
 
-### 🧩 My GitHub Contribution Graph
+### 🧩 GitHub Contribution Graph
 [![Gideon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Kipngeno&theme=tokyo-night&hide_border=true)](https://github.com/Gideon-Kipngeno)
 
 ---
@@ -67,9 +69,11 @@
 ---
 
 ### ⚡ Fun Fact
-> I believe great code doesn’t just solve problems — it tells a story.  
+> I believe great code doesn’t just solve problems — it tells a story.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Gideon-Kipngeno&color=brightgreen)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gideon-Kipngeno&color=brightgreen&style=for-the-badge">
+</p>
 
 ---
 
