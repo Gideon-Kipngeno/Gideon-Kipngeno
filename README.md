@@ -11,21 +11,40 @@
 ---
 
 ## About Me
-- **BSc in Information Technology** – Zetech University  
-- Currently learning **Software Engineering** at Power Learn Project  
-- Exploring **Web Development**, **Networking**, and **Data Analytics**  
-- Passionate about building digital solutions that solve community challenges  
-- Ask me about **Python**, **JavaScript**, **Django**, and **Technical Support**
+
+- **Education**  
+  BSc in Information Technology – Zetech University
+
+- **Current Focus**  
+  Learning Software Engineering at Power Learn Project
+
+- **Areas of Interest**  
+  Web Development, Networking, and Data Analytics
+
+- **Passion**  
+  Building digital solutions that solve community challenges
+
+- **Expertise**  
+  Python, JavaScript, Django, Technical Support
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, JavaScript, HTML, CSS  
-**Frameworks:** Django, Node.js, Bootstrap  
-**Databases:** MySQL, SQLite  
-**Tools:** Git, GitHub, Linux, VS Code  
-**Networking:** CCNA, CyberOps, Technical Support
+**Languages**  
+Python · JavaScript · HTML · CSS
+
+**Frameworks**  
+Django · Node.js · Bootstrap
+
+**Databases**  
+MySQL · SQLite
+
+**Tools**  
+Git · GitHub · Linux · VS Code
+
+**Networking**  
+CCNA · CyberOps · Technical Support
 
 ---
 
@@ -42,17 +61,17 @@
 
 ## Featured Projects
 
-### [Personal Portfolio](https://gideon-kipngeno.github.io/GIDEON_K_N/)
+**Personal Portfolio**  
 A responsive personal website showcasing my skills, education, and projects.  
-[Visit Site](https://gideon-kipngeno.github.io/GIDEON_K_N/)
+→ [Visit Site](https://gideon-kipngeno.github.io/GIDEON_K_N/)
 
-### Task Manager Pro (Django App)
+**Task Manager Pro (Django App)**  
 A task management web app built for Destinet Solutions with authentication and dashboard features.  
-*Private Project*
+→ *Private Project*
 
-### [Greenwood School Website](https://gideon-kipngeno.github.io/Greenwood/)
+**Greenwood School Website**  
 A modern academic website built using HTML, CSS, and JS.  
-[Preview](https://gideon-kipngeno.github.io/Greenwood/)
+→ [Preview](https://gideon-kipngeno.github.io/Greenwood/)
 
 ---
 
