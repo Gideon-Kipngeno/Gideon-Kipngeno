@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# Hi there, This is Gideon Kipngeno Ngetich
+# 👋 Hi there, I'm Gideon Kipngeno Ngetich
 
-###  Web Developer | Networking & System Support Specialist | Aspiring Data Analyst
+### 💻 Web Developer | Networking & System Support Specialist | Aspiring Data Analyst
 
 <img src="https://github.com/ashutosh00710/ashutosh00710/raw/master/assets/developer.gif" width="70">
 <br/>
@@ -14,28 +14,28 @@
 
 ---
 
-## About Me
--  **BSc in Information Technology** – Zetech University  
--  Currently learning **Software Engineering** at Power Learn Project  
--  Exploring **Web Development**, **Networking**, and **Data Analytics**  
--  Passionate about building digital solutions that solve community challenges  
--  Ask me about **Python**, **JavaScript**, **Django**, and **Technical Support**
+## 🚀 About Me
+- 🎓 **BSc in Information Technology** – Zetech University  
+- 🧠 Currently learning **Software Engineering** at Power Learn Project  
+- 🌱 Exploring **Web Development**, **Networking**, and **Data Analytics**  
+- 💡 Passionate about building digital solutions that solve community challenges  
+- 💬 Ask me about **Python**, **JavaScript**, **Django**, and **Technical Support**
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Category | Technologies |
 |-----------|---------------|
-| **Languages** | Python , JavaScript , HTML, CSS |
-| **Frameworks** | Django , Node.js , Bootstrap |
-| **Databases** | MySQL , SQLite |
-| **Tools** | Git , GitHub , Linux, VS Code |
-| **Networking** | CCNA , CyberOps, Technical Support 🖧 |
+| **Languages** | Python 🐍, JavaScript ⚡, HTML 🧱, CSS 🎨 |
+| **Frameworks** | Django 🕸️, Node.js 🚀, Bootstrap 💎 |
+| **Databases** | MySQL 💾, SQLite |
+| **Tools** | Git 🧰, GitHub 🐙, Linux 🐧, VS Code 💻 |
+| **Networking** | CCNA 🌐, CyberOps, Technical Support 🖧 |
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Kipngeno&show_icons=true&theme=tokyonight&hide_border=true" height="165">
@@ -48,23 +48,23 @@
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
 | Project | Description | Preview |
 |----------|--------------|----------|
-|  [**Personal Portfolio**](https://gideon-kipngeno.github.io/GIDEON_K_N/) | A responsive personal website showcasing my skills, education, and projects. | [Visit Site](https://gideon-kipngeno.github.io/GIDEON_K_N/) |
-|  **Task Manager Pro (Django App)** | A task management web app built for Destinet Solutions with authentication and dashboard features. |  *(Private Project)* |
-|  **Greenwood School Website** | A modern academic website built using HTML, CSS, and JS. | [ Preview](https://gideon-kipngeno.github.io/Greenwood/) |
+| 🧭 [**Personal Portfolio**](https://gideon-kipngeno.github.io/GIDEON_K_N/) | A responsive personal website showcasing my skills, education, and projects. | [🌐 Visit Site](https://gideon-kipngeno.github.io/GIDEON_K_N/) |
+| ✅ **Task Manager Pro (Django App)** | A task management web app built for Destinet Solutions with authentication and dashboard features. | 💻 *(Private Project)* |
+| 🌍 **Greenwood School Website** | A modern academic website built using HTML, CSS, and JS. | [🔗 Preview](https://gideon-kipngeno.github.io/Greenwood/) |
 
 ---
 
-##  GitHub Contribution Graph
+## 🧩 GitHub Contribution Graph
 
 [![Gideon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Kipngeno&theme=tokyo-night&hide_border=true)](https://github.com/Gideon-Kipngeno)
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="mailto:giddykipngeno5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
@@ -74,7 +74,7 @@
 
 ---
 
-##  Fun Fact
+## ⚡ Fun Fact
 > I believe great code doesn't just solve problems — it tells a story.
 
 <div align="center">
@@ -83,7 +83,7 @@
 
 ---
 
- *"Technology becomes powerful when it empowers people."*
+⭐️ *"Technology becomes powerful when it empowers people."*
 
 ---
 
