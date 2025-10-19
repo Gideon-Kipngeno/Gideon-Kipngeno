@@ -12,39 +12,25 @@
 
 ## About Me
 
-- **Education**  
-  BSc in Information Technology – Zetech University
-
-- **Current Focus**  
-  Learning Software Engineering at Power Learn Project
-
-- **Areas of Interest**  
-  Web Development, Networking, and Data Analytics
-
-- **Passion**  
-  Building digital solutions that solve community challenges
-
-- **Expertise**  
-  Python, JavaScript, Django, Technical Support
+| | |
+|-|-|
+| **Education** | BSc in Information Technology – Zetech University |
+| **Current Focus** | Learning Software Engineering at Power Learn Project |
+| **Areas of Interest** | Web Development, Networking, and Data Analytics |
+| **Passion** | Building digital solutions that solve community challenges |
+| **Expertise** | Python, JavaScript, Django, Technical Support |
 
 ---
 
 ## Tech Stack
 
-**Languages**  
-Python · JavaScript · HTML · CSS
-
-**Frameworks**  
-Django · Node.js · Bootstrap
-
-**Databases**  
-MySQL · SQLite
-
-**Tools**  
-Git · GitHub · Linux · VS Code
-
-**Networking**  
-CCNA · CyberOps · Technical Support
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python, JavaScript, HTML, CSS |
+| **Frameworks** | Django, Node.js, Bootstrap |
+| **Databases** | MySQL, SQLite |
+| **Tools** | Git, GitHub, Linux, VS Code |
+| **Networking** | CCNA, CyberOps, Technical Support |
 
 ---
 
@@ -61,17 +47,11 @@ CCNA · CyberOps · Technical Support
 
 ## Featured Projects
 
-**Personal Portfolio**  
-A responsive personal website showcasing my skills, education, and projects.  
-→ [Visit Site](https://gideon-kipngeno.github.io/GIDEON_K_N/)
-
-**Task Manager Pro (Django App)**  
-A task management web app built for Destinet Solutions with authentication and dashboard features.  
-→ *Private Project*
-
-**Greenwood School Website**  
-A modern academic website built using HTML, CSS, and JS.  
-→ [Preview](https://gideon-kipngeno.github.io/Greenwood/)
+| Project | Description | Links |
+|---------|-------------|--------|
+| **Personal Portfolio** | A responsive personal website showcasing my skills, education, and projects. | [Visit Site](https://gideon-kipngeno.github.io/GIDEON_K_N/) |
+| **Task Manager Pro** | A task management web app built for Destinet Solutions with authentication and dashboard features. | *Private Project* |
+| **Greenwood School Website** | A modern academic website built using HTML, CSS, and JS. | [Preview](https://gideon-kipngeno.github.io/Greenwood/) |
 
 ---
 
