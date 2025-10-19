@@ -6,8 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D1F7&vCenter=true&width=600&lines=Hi%2C+I'm+Gideon+Kipngeno+Ngetich!;Web+Developer+%7C+System+Support+Specialist;Networking+%26+Aspiring+Data+Analyst;Lifelong+Learner+and+Innovator" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
+<p align="left">
   <img src="https://github.com/ashutosh00710/ashutosh00710/raw/master/assets/developer.gif" width="80">
   <b>"Turning ideas into digital experiences that empower people."</b>
 </p>
