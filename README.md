@@ -15,8 +15,6 @@
   <b>"Turning ideas into digital experiences that empower people."</b>
 </p>
 
----
-
 <!-- Animated Divider -->
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -32,8 +30,6 @@
 <b>Ask Me About:</b> Python, JavaScript, Django, Technical Support  
 
 </div>
-
----
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -61,7 +57,6 @@
   </a>
 </p>
 
----
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -75,8 +70,6 @@
 | **Databases** | MySQL, SQLite |
 | **Tools** | Git, GitHub, Linux, VS Code |
 | **Networking** | CCNA, CyberOps, Technical Support |
-
----
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -92,8 +85,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Kipngeno&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
----
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
@@ -105,16 +96,12 @@
 | **Task Manager Pro (Django App)** | A task management web app built for Destinet Solutions with authentication and dashboard features. | *(Private Project)* |
 | [**Greenwood School Website**](https://gideon-kipngeno.github.io/Greenwood/) | A modern academic website built using HTML, CSS, and JS. | [Preview](https://gideon-kipngeno.github.io/Greenwood/) |
 
----
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
 ## GitHub Contribution Graph
 [![Gideon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Kipngeno&theme=tokyo-night&hide_border=true)](https://github.com/Gideon-Kipngeno)
-
----
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
