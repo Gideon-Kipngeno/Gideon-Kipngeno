@@ -21,17 +21,23 @@
   <b>"Turning ideas into digital experiences that empower people."</b>
 </p>
 
---- -->
+---
 
-### <p align="center">About Me</p>
+<div align="center">
 
-<p align="center">
-  <b>BSc in Information Technology</b> – Zetech University <br>
-  Currently learning <b>Software Engineering</b> at Power Learn Project <br>
-  Exploring <b>Web Development</b>, <b>Networking</b>, and <b>Data Analytics</b> <br>
-  Passionate about building digital solutions that solve community challenges <br>
-  Ask me about <b>Python</b>, <b>JavaScript</b>, <b>Django</b>, and <b>Technical Support</b>
+<h3> About Me</h3>
+
+<div style="background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); padding: 15px; border-radius: 12px; width: 80%; color: #fff;">
+<p align="left">
+• <b>Education:</b> BSc in Information Technology – Zetech University <br>
+• <b>Currently Learning:</b> Software Engineering – Power Learn Project <br>
+• <b>Areas of Interest:</b> Web Development, Networking, Data Analytics <br>
+• <b>Passion:</b> Building digital solutions that solve community challenges <br>
+• <b>Ask Me About:</b> Python, JavaScript, Django, Technical Support  
 </p>
+</div>
+
+</div>
 
 ---
 
