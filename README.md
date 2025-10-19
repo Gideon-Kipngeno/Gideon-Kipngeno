@@ -7,8 +7,6 @@
   </a>
 </p>
 
----
-
 <p align="left">
   <img src="https://github.com/ashutosh00710/ashutosh00710/raw/master/assets/developer.gif" width="80">
   <br/>
