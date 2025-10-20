@@ -34,17 +34,17 @@
 
 ## Connect With Me
 <p align="left">
-  <a href="https://github.com/Gideon-Kipngeno">
+    <a href="https://github.com/Gideon-Kipngeno">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://x.com/Gideon_K_N">
+    <a href="https://linkedin.com/in/gideon-k-ngetich">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://instagram.com/">
+    <a href="https://x.com/Gideon_K_N">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x">
   </a>
   <a href="mailto:giddykipngeno5@gmail.com">
-  </a>
-  <a href="https://linkedin.com/in/gideon-k-ngetich">
-  </a>
-  <a href="https://gideon-kipngeno.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
