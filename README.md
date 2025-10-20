@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D1F7&vCenter=true&width=600&lines=Hi%2C+I'm+Gideon+Kipngeno+Ngetich!;Web+Developer+%7C+System+Support+Specialist;Networking+%26+Aspiring+Data+Analyst;Lifelong+Learner+and+Innovator" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="left">
   <img src="https://github.com/ashutosh00710/ashutosh00710/raw/master/assets/developer.gif" width="70">
   <br/>
@@ -36,22 +35,16 @@
 ## Connect With Me
 <p align="left">
   <a href="https://github.com/Gideon-Kipngeno">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://x.com/Gideon_K_N">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x">
   </a>
   <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram">
   </a>
   <a href="mailto:giddykipngeno5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://linkedin.com/in/gideon-k-ngetich">
-    <img src="https://img.shields.io/badge/LinkedIn-Gideon%20Ngetich-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://gideon-kipngeno.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome">
   </a>
 </p>
 
