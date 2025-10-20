@@ -1,10 +1,10 @@
 <!-- Custom GitHub Profile for Gideon Kipngeno Ngetich -->
 
 <!-- Typing Animation Header -->
-<div style="background: linear-gradient(135deg, #0c4a6e, #0369a1); padding: 20px; border-radius: 12px; margin: 20px 0;">
+<div style="background: #1a202c; padding: 20px; border-radius: 8px; margin: 20px 0;">
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffffff&vCenter=true&width=600&lines=Hello%2C+this+is+Gideon+Kipngeno+Ngetich!;Web+Developer+%7C+System+Support+Specialist;Networking+%26+Aspiring+Data+Analyst;Lifelong+Learner+and+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D1F7&vCenter=true&width=600&lines=Hello%2C+this+is+Gideon+Kipngeno+Ngetich!;Web+Developer+%7C+System+Support+Specialist;Networking+%26+Aspiring+Data+Analyst;Lifelong+Learner+and+Innovator" alt="Typing SVG" />
   </a>
 </p>
 </div>
