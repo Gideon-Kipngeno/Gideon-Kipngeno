@@ -33,18 +33,18 @@
 </p>
 
 ## Connect With Me
-<p align="left" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
-  <a href="https://github.com/Gideon-Kipngeno" style="text-decoration: none; transition: transform 0.3s ease;">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <a href="https://github.com/Gideon-Kipngeno" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/gideon-k-ngetich" style="text-decoration: none; transition: transform 0.3s ease;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <a href="https://linkedin.com/in/gideon-k-ngetich" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://x.com/Gideon_K_N" style="text-decoration: none; transition: transform 0.3s ease;">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <a href="https://x.com/Gideon_K_N" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
-  <a href="mailto:giddykipngeno5@gmail.com" style="text-decoration: none; transition: transform 0.3s ease;">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <a href="mailto:giddykipngeno5@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
