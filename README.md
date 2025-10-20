@@ -8,7 +8,7 @@
 </p>
 <p align="left">
   <img src="https://github.com/ashutosh00710/ashutosh00710/raw/master/assets/developer.gif" width="80">
-  <b>"Turning ideas into digital experiences that empower people."</b>
+<b>"Turning ideas into digital experiences that empower people."</b>
 </p>
 
 <!-- Animated Divider -->
