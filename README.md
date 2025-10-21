@@ -51,7 +51,6 @@
   </a>
 </p>
 
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
@@ -69,10 +68,17 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
-## GitHub Analytics
+## GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Gideon-Kipngeno&show_icons=true&theme=tokyonight&hide_border=true" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gideon-Kipngeno&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+## GitHub Contributions
+[![Gideon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Kipngeno&theme=tokyo-night&hide_border=true)](https://github.com/Gideon-Kipngeno)
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
 <p align="left">
@@ -94,15 +100,8 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
-## GitHub Contribution Graph
-[![Gideon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Kipngeno&theme=tokyo-night&hide_border=true)](https://github.com/Gideon-Kipngeno)
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
 ## Fun Fact
-> I believe great code doesn’t just solve problems — it tells a story.
+> I believe great code doesn't just solve problems — it tells a story.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Gideon-Kipngeno&color=brightgreen&style=for-the-badge">
