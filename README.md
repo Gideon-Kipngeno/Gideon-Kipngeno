@@ -8,7 +8,7 @@
   </a>
 </p>
 </div>
-
+---
 <!-- Social Links -->
 <p align="left" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
   <a href="https://github.com/Gideon-Kipngeno" style="text-decoration: none;">
@@ -92,6 +92,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
+
 ## GitHub Contributions
 [![Gideon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Kipngeno&theme=tokyo-night&hide_border=true)](https://github.com/Gideon-Kipngeno)
 
