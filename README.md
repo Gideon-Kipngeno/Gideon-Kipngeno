@@ -9,13 +9,25 @@
 </p>
 </div>
 
+<!-- Social Links -->
+<p align="left" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+  <a href="https://github.com/Gideon-Kipngeno" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/gideon-k-ngetich" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/Gideon_K_N" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</p>
+
 <p align="left">
   <img src="https://github.com/ashutosh00710/ashutosh00710/raw/master/assets/developer.gif" width="70">
   <br/>
   "Turning ideas into digital experiences that empower people."
 </p>
 
-<!-- Animated Divider -->
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
@@ -35,34 +47,33 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
-## Connect With Me
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <a href="https://github.com/Gideon-Kipngeno" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/gideon-k-ngetich" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://x.com/Gideon_K_N" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/X-00ACEE?style=for-the-badge&logo=Twitter&logoColor=white">
-  </a>
-  <a href="mailto:giddykipngeno5@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+## Languages and Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  
+  <!-- Networking -->
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
 </p>
-
-## Tech Stack
-| Category | Technologies |
-|-----------|---------------|
-| **Languages** | Python, JavaScript, HTML, CSS |
-| **Frameworks** | Django, Node.js, Bootstrap |
-| **Databases** | MySQL, SQLite |
-| **Tools** | Git, GitHub, Linux, VS Code |
-| **Networking** | CCNA, CyberOps, Technical Support |
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -74,16 +85,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gideon-Kipngeno&theme=tokyonight&hide_border=true" height="165">
 </p>
 
-## GitHub Contributions
-[![Gideon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Kipngeno&theme=tokyo-night&hide_border=true)](https://github.com/Gideon-Kipngeno)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Kipngeno&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-Kipngeno&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
+## GitHub Contributions
+[![Gideon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gideon-Kipngeno&theme=tokyo-night&hide_border=true)](https://github.com/Gideon-Kipngeno)
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -100,7 +110,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
-## Fun Fact
 > I believe great code doesn't just solve problems — it tells a story.
 
 <p align="left">
