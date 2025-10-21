@@ -25,11 +25,8 @@
   <br/>
   "Turning ideas into digital experiences that empower people."
 </p>
-
 <p align="left">
   <img src="https://github.com/ashutosh00710/ashutosh00710/raw/master/assets/developer.gif" width="70">
-  <br/>
-  "Turning ideas into digital experiences that empower people."
 </p>
 
 <p align="left">
