@@ -22,6 +22,7 @@
   <a href="https://x.com/Gideon_K_N" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
+  "Turning ideas into digital experiences that empower people."
 </p>
 
 <p align="left">
