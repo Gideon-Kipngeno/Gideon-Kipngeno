@@ -8,7 +8,9 @@
   </a>
 </p>
 </div>
+
 ---
+
 <!-- Social Links -->
 <p align="left" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
   <a href="https://github.com/Gideon-Kipngeno" style="text-decoration: none;">
