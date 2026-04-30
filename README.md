@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/gideon-k-ngetich" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://x.com/Gideon_K_N" style="text-decoration: none;">
+  <a href="https://x.com/kipngenio" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <br/>
