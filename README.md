@@ -9,6 +9,12 @@
 </p>
 </div>
 
+<!-- Twitter-style Tagline (personal brand) -->
+<p align="left">
+  <b>🛠️ Built for outages. Living for solutions.</b><br/>
+  <b>🧪 Not a guru. Just a guy who tries stuff and shares it.</b>
+</p>
+
 ---
 
 <!-- Social Links -->
@@ -35,9 +41,9 @@
 
 <b>Education:</b> BSc in Information Technology – Zetech University <br>
 <b>Currently Learning:</b> Software Engineering – Power Learn Project <br>
-<b>Areas of Interest:</b> Web Development, Networking, Data Analytics <br>
+<b>Areas of Interest:</b> Web Development, Software Development, Data <br>
 <b>Passion:</b> Building digital solutions that solve community challenges <br>
-<b>Ask Me About:</b> Python, JavaScript, Django, Technical Support  
+<b>Ask Me About:</b> Python, JavaScript, Django, Html5 Css3, Technical Support  
 
 </div>
 
@@ -100,11 +106,11 @@
 </p>
 
 ## Featured Projects
-| Project | Description | Preview |
-|----------|--------------|----------|
-| [**Personal Portfolio**](https://gideon-k-m14ahlnuy-gideons-projects-0567d1d1.vercel.app) | A responsive personal website showcasing my skills, education, and projects. | [Visit Site](https://gideon-kipngeno.github.io/GIDEON_K_N/) |
+| Project | Description | Link |
+|----------|--------------|------|
+| [**Personal Portfolio**](https://gideon-k-m14ahlnuy-gideons-projects-0567d1d1.vercel.app) | A responsive personal website showcasing my skills, education, and projects. | [Live Demo →](https://gideon-k-m14ahlnuy-gideons-projects-0567d1d1.vercel.app) |
 | **Task Manager Pro (Django App)** | A task management web app built for Destinet Solutions with authentication and dashboard features. | *(Private Project)* |
-| [**Greenwood School Website**](https://gideon-kipngeno.github.io/Greenwood/) | A modern academic website built using HTML, CSS, and JS. | [Preview](https://gideon-kipngeno.github.io/Greenwood/) |
+| [**Greenwood School Website**](https://gideon-kipngeno.github.io/Greenwood/) | A modern academic website built using HTML, CSS, and JS. | [Live Demo →](https://gideon-kipngeno.github.io/Greenwood/) |
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
